@@ -1,0 +1,5 @@
+X_train & X_test
+Il y a des valeurs négatives dans RISK1 et RISK3, je prendrai abs()
+
+y_train: 
+il y a des valeurs négatives, je prendrai abs()
